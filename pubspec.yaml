@@ -1,0 +1,12 @@
+name: downloader
+description: A simple file downloader
+version: 0.0.1
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+# dependencies:
+
+dev_dependencies:
+  pedantic: ^1.10.0
